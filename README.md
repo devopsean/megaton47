@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seab
+- 👋 Hi, I’m Sean
 - 👀 I’m interested in Flutter developer roles.
 - 🌱 I’m currently learning Flutter (Full Stack)
 - 💞️ I’m looking to collaborate on startups.
